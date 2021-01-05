@@ -31,3 +31,7 @@ g. As discussed in class, any other process reaching the internet that is undefi
     . 0x818233c8:reader_sl.exe 228 1956 2 26 2011-10-10 17:04:41 UTC+0000
 h. vol.py -f file.vmem --profile=WinXPSP2x86 procdump -D ./ -p 228
     strings 228.dmp > 2017325_7_h.txt
+
+
+
+****** If you didnt get the password by yourself, it is - "infected"
