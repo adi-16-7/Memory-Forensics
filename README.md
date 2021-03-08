@@ -9,7 +9,7 @@ f. What commands invoked the above 4 processes?
 g. One process is suspicious. Why?
 h. Take the process dump of the suspicious process. Save the “strings” output of the process to a .txt file. Did you find any suspicious activity? Discuss?
 
-The memory dump can be found here: https://drive.google.com/file/d/1vI-hV96yhJBH4ST3r3bzJK2cbGk5umZq/view?usp=sharing or check the xip file in the attachments.
+The memory dump can be found here: https://drive.google.com/file/d/1vI-hV96yhJBH4ST3r3bzJK2cbGk5umZq/view?usp=sharing
 
 0zapftis
 
